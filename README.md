@@ -6,7 +6,7 @@ to deploy moodle, we need moodle images and dbms (mariadb, msql) images
 - [moodle image](https://hub.docker.com/repository/docker/mridho/lms-moodle)
 
 ```
-$ docker pull mridho/lmsmoodle:latest
+$ docker pull mridho/lms-moodle:latest
 ```
 
 - [dbms image (mariadb)](https://hub.docker.com/_/mariadb)
